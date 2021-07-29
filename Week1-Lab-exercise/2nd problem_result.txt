@@ -1,0 +1,6 @@
+Input		Output
+a		String not Accepted
+abss		String Accepted
+acda		String not Accepted
+cc		String Accepted
+dsss		String ACCepted
