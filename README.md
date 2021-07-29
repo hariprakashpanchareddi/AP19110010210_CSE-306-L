@@ -1,1 +1,3 @@
-# AP19110010210_CSE-306-L
+# AP19110010210
+CSE-306 Lab 
+Weekly Exercises 
