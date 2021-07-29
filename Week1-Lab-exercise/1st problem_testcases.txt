@@ -1,0 +1,6 @@
+Input		Output
+abab		String Accepted
+aabb		String Accepted
+aba 		String not Accepted
+abbab		String not Accepted
+abc 		Invalid token
